@@ -1,6 +1,6 @@
 # In cs2-store.json
 
-     "4": {
+     "1": {
         "name": "Decoy Teleport",
         "uniqueid": "decoy_teleport",
         "DecoyModel": "", // if you don't have any models let it blank. I will add a custom one in the next update
