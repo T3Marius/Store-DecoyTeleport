@@ -13,3 +13,4 @@
 **Place the DecoyTeleport folder in addons/counterstrikesharp/plugins/DecoyTeleport**
 
 
+[Support Me](https://paypal.me/vxaero?country.x=RO&locale.x=en_US)
